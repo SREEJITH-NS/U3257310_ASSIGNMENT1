@@ -10,6 +10,6 @@ This folder includes:
 - Evaluation and Engineering decision
 - Full implementation logic and flowchart
 - Test cases with expected results and refinement suggestions
-
+- AI Reflection Document
 All design steps follow the Engineering Method as outlined in the course material.
 

@@ -1,0 +1,15 @@
+Assignment 1
+
+Student ID: U3257310
+Course: Introduction to Computing and Engineering (ICE)
+Assignment: Logic-Based Railway Gate Control System
+
+This folder includes:
+- Problem definition and logic design
+- Alternative solutions (Sensor-based and Timer-based)
+- Evaluation and Engineering decision
+- Full implementation logic and flowchart
+- Test cases with expected results and refinement suggestions
+
+All design steps follow the Engineering Method as outlined in the course material.
+
